@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# alpha-lapis-berry 🫡
 
-## Getting Started
+My new portfolio website (the old one was [lapisberry.github.io][lapisberry.github.io-url])😄
 
-First, run the development server:
+## About
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I wanna make a brand new portfolio website.😉
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+(that's it 😅)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Yeah yea that, another reason is I wanna practice my skill on using ["next.js"][next.js-url] react framework.🙀
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Plain HTML and CSS is cool and enough for a static website though. But using something like... "benefits more in an industry way 🤷" should be better
 
-## Learn More
+That's should be the word. It's because react is a JSlibrary that is "component-based".
 
-To learn more about Next.js, take a look at the following resources:
+Alone the HTML and CSS can make a good static website and If you wanna change something on website just using JavaScript to make it more dynamic.🤓
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<a href="https://nextjs.org/"
+    target="_blank"
+    rel="noreferrer"
+    style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+    alt="nextjs"
+    width="40"
+    height="40"/>
+</a>
+<a href="https://tailwindcss.com/"
+    target="_blank"
+    rel="noreferrer"
+    style="text-decoration: none;"
+    style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+    alt="tailwind"
+    width="40"
+    height="40"/>
+</a>
+<a href="https://reactjs.org/"
+    target="_blank"
+    rel="noreferrer"
+    style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    alt="react"
+    width="40"
+    height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+    style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript"
+    width="40"
+    height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/"
+    target="_blank"
+    rel="noreferrer"
+    style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    width="40"
+    height="40"/>
+</a>
+<a href="https://nodejs.org"
+    target="_blank"
+    rel="noreferrer"
+    style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="nodejs"
+    width="40"
+    height="40"/>
+</a>
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Deploy on vercel: [alpha-lapisberry.vercel.app][alpha-lapisberry.vercel.app-url] ⚠️ NO-DEPLOYMENT-YET ⚠️
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[lapisberry.github.io-url]: https://lapisberry.github.io
+[next.js-url]: https://nextjs.org/
+[alpha-lapisberry.vercel.app-url]: https://alpha-lapisberry.vercel.app
